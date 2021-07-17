@@ -8,7 +8,7 @@ In this Amazon Clone application you can register on the site, log in with our a
 ## Topics
 + Build checkout and payment page with stripe functionality
 + Checkout screen with the React context API
-+ Accounts and Login Page with Firebse Authentication
++ Accounts and Login Page with Firebase Authentication
 + Deploy cloud function to process payment
 + Firebase for real time database
 + Deploy the App LIVE on Firebase
